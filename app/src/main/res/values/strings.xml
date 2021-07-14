@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EmailTest Component</string>
+    <string name="email">Enter Your Email</string>
+    <string name="email_hint">example@gmail.com</string>
+    <string name="message">Enter Your Message</string>
+    <string name="message_hint">Message.....</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+    <string name="form">Submit Form</string>
+
+</resources>
