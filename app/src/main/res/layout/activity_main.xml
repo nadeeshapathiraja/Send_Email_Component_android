@@ -69,7 +69,6 @@
                 android:orientation="horizontal">
                 <Button
                     android:id="@+id/btn_clear"
-                    android:onClick="clear"
                     android:layout_width="0sp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
